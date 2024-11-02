@@ -123,3 +123,11 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Reports / Powerpoint
+.pptx
+.pdf
+/img/cusum-chart.png
+/img/ewma-chart.png
+/reports/20241102_project_progress_approaches.pdf
+/reports/20241102_project_progress_approaches.pptx
