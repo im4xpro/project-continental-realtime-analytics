@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import json
+import evidently
 from datetime import timedelta
 from evidently.report import Report
 from evidently.metrics import ColumnDriftMetric, DatasetDriftMetric, DatasetMissingValuesMetric
