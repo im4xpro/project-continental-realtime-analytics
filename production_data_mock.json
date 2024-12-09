@@ -1,0 +1,1202 @@
+[
+    {
+        "StationName": "Station1",
+        "SerialNumber": 1,
+        "Value": 13.307963737065585,
+        "TimeStamp": "2024-11-22T16:03:52.351142"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 2,
+        "Value": 13.133764018458505,
+        "TimeStamp": "2024-11-22T16:04:05.659106"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 3,
+        "Value": 13.989968515716482,
+        "TimeStamp": "2024-11-22T16:04:18.792870"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 4,
+        "Value": 13.519849497189934,
+        "TimeStamp": "2024-11-22T16:04:32.782839"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 5,
+        "Value": 13.431072421460588,
+        "TimeStamp": "2024-11-22T16:04:46.302688"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 6,
+        "Value": 13.838346435510495,
+        "TimeStamp": "2024-11-22T16:04:59.733760"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 7,
+        "Value": 13.982614082592473,
+        "TimeStamp": "2024-11-22T16:05:13.572106"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 8,
+        "Value": 13.808808471778532,
+        "TimeStamp": "2024-11-22T16:05:27.554720"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 9,
+        "Value": 13.198309575300692,
+        "TimeStamp": "2024-11-22T16:05:41.363528"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 10,
+        "Value": 13.131082198904817,
+        "TimeStamp": "2024-11-22T16:05:54.561838"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 11,
+        "Value": 13.15982533713534,
+        "TimeStamp": "2024-11-22T16:06:07.692920"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 12,
+        "Value": 13.125858266617474,
+        "TimeStamp": "2024-11-22T16:06:20.852745"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 13,
+        "Value": 13.630574487093478,
+        "TimeStamp": "2024-11-22T16:06:33.978603"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 14,
+        "Value": 13.48784699458809,
+        "TimeStamp": "2024-11-22T16:06:47.609177"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 15,
+        "Value": 13.534311871797154,
+        "TimeStamp": "2024-11-22T16:07:01.097024"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 16,
+        "Value": 13.668199222200567,
+        "TimeStamp": "2024-11-22T16:07:14.631336"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 17,
+        "Value": 13.234539368719975,
+        "TimeStamp": "2024-11-22T16:07:28.299535"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 18,
+        "Value": 13.927989691686964,
+        "TimeStamp": "2024-11-22T16:07:41.534074"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 19,
+        "Value": 13.770911176422912,
+        "TimeStamp": "2024-11-22T16:07:55.462064"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 20,
+        "Value": 13.914734584550507,
+        "TimeStamp": "2024-11-22T16:08:09.232975"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 21,
+        "Value": 13.926083679484737,
+        "TimeStamp": "2024-11-22T16:08:23.147710"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 22,
+        "Value": 14.059335446858995,
+        "TimeStamp": "2024-11-22T16:08:37.073794"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 23,
+        "Value": 13.8216089925661,
+        "TimeStamp": "2024-11-22T16:08:51.133129"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 24,
+        "Value": 13.260084618798707,
+        "TimeStamp": "2024-11-22T16:09:04.954738"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 25,
+        "Value": 13.541173313843254,
+        "TimeStamp": "2024-11-22T16:09:18.214823"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 26,
+        "Value": 13.090517518662995,
+        "TimeStamp": "2024-11-22T16:09:31.755996"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 27,
+        "Value": 13.40690332982809,
+        "TimeStamp": "2024-11-22T16:09:44.846514"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 28,
+        "Value": 13.753151677975188,
+        "TimeStamp": "2024-11-22T16:09:58.253417"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 29,
+        "Value": 13.040844910457965,
+        "TimeStamp": "2024-11-22T16:10:12.006569"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 30,
+        "Value": 13.400319320451294,
+        "TimeStamp": "2024-11-22T16:10:25.047414"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 31,
+        "Value": 13.929284603382474,
+        "TimeStamp": "2024-11-22T16:10:38.447733"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 32,
+        "Value": 13.928244905383961,
+        "TimeStamp": "2024-11-22T16:10:52.377018"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 33,
+        "Value": 13.90726838912159,
+        "TimeStamp": "2024-11-22T16:11:06.305263"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 34,
+        "Value": 13.749639591692524,
+        "TimeStamp": "2024-11-22T16:11:20.212531"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 35,
+        "Value": 13.313566147888613,
+        "TimeStamp": "2024-11-22T16:11:33.962171"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 36,
+        "Value": 13.684676916238274,
+        "TimeStamp": "2024-11-22T16:11:47.275737"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 37,
+        "Value": 13.374923772421743,
+        "TimeStamp": "2024-11-22T16:12:00.960414"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 38,
+        "Value": 14.032351094132867,
+        "TimeStamp": "2024-11-22T16:12:14.335338"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 39,
+        "Value": 13.913475388340881,
+        "TimeStamp": "2024-11-22T16:12:28.367689"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 40,
+        "Value": 13.228085762328673,
+        "TimeStamp": "2024-11-22T16:12:42.281164"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 41,
+        "Value": 13.085973434571441,
+        "TimeStamp": "2024-11-22T16:12:55.509250"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 42,
+        "Value": 13.292826402183886,
+        "TimeStamp": "2024-11-22T16:13:08.595223"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 43,
+        "Value": 13.26435248092392,
+        "TimeStamp": "2024-11-22T16:13:21.888049"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 44,
+        "Value": 13.634099888912923,
+        "TimeStamp": "2024-11-22T16:13:35.152401"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 45,
+        "Value": 13.21000628307557,
+        "TimeStamp": "2024-11-22T16:13:48.786501"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 46,
+        "Value": 13.078410783387408,
+        "TimeStamp": "2024-11-22T16:14:01.996507"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 47,
+        "Value": 13.35613357966025,
+        "TimeStamp": "2024-11-22T16:14:15.074918"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 48,
+        "Value": 14.01537203180916,
+        "TimeStamp": "2024-11-22T16:14:28.431052"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 49,
+        "Value": 13.224243105513965,
+        "TimeStamp": "2024-11-22T16:14:42.446424"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 50,
+        "Value": 13.652730099693116,
+        "TimeStamp": "2024-11-22T16:14:55.670667"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 51,
+        "Value": 13.408405990424177,
+        "TimeStamp": "2024-11-22T16:15:09.323397"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 52,
+        "Value": 13.800754162079215,
+        "TimeStamp": "2024-11-22T16:15:22.731803"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 53,
+        "Value": 13.31404630221669,
+        "TimeStamp": "2024-11-22T16:15:36.532557"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 54,
+        "Value": 14.040288122053898,
+        "TimeStamp": "2024-11-22T16:15:49.846603"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 55,
+        "Value": 13.728213602033623,
+        "TimeStamp": "2024-11-22T16:16:03.886891"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 56,
+        "Value": 13.81604523856224,
+        "TimeStamp": "2024-11-22T16:16:17.615105"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 57,
+        "Value": 13.867237051880943,
+        "TimeStamp": "2024-11-22T16:16:31.431150"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 58,
+        "Value": 13.792708099118105,
+        "TimeStamp": "2024-11-22T16:16:45.298387"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 59,
+        "Value": 13.49691997895043,
+        "TimeStamp": "2024-11-22T16:16:59.091095"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 60,
+        "Value": 14.083111526308224,
+        "TimeStamp": "2024-11-22T16:17:12.588015"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 61,
+        "Value": 13.325291521320873,
+        "TimeStamp": "2024-11-22T16:17:26.671127"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 62,
+        "Value": 13.380977607773396,
+        "TimeStamp": "2024-11-22T16:17:39.996419"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 63,
+        "Value": 13.071822702339906,
+        "TimeStamp": "2024-11-22T16:17:53.377397"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 64,
+        "Value": 14.072091145823794,
+        "TimeStamp": "2024-11-22T16:18:06.449220"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 65,
+        "Value": 13.005312252761309,
+        "TimeStamp": "2024-11-22T16:18:20.521311"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 66,
+        "Value": 13.195177871924953,
+        "TimeStamp": "2024-11-22T16:18:33.526623"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 67,
+        "Value": 13.448021636019547,
+        "TimeStamp": "2024-11-22T16:18:46.721801"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 68,
+        "Value": 13.603309440075549,
+        "TimeStamp": "2024-11-22T16:19:00.169823"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 69,
+        "Value": 13.230520184921547,
+        "TimeStamp": "2024-11-22T16:19:13.773132"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 70,
+        "Value": 13.324429309956702,
+        "TimeStamp": "2024-11-22T16:19:27.003652"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 71,
+        "Value": 13.700415717584956,
+        "TimeStamp": "2024-11-22T16:19:40.328081"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 72,
+        "Value": 13.048207418113018,
+        "TimeStamp": "2024-11-22T16:19:54.028497"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 73,
+        "Value": 13.902755777683067,
+        "TimeStamp": "2024-11-22T16:20:07.076704"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 74,
+        "Value": 13.036408115475014,
+        "TimeStamp": "2024-11-22T16:20:20.979460"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 75,
+        "Value": 13.118776430912042,
+        "TimeStamp": "2024-11-22T16:20:34.015868"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 76,
+        "Value": 13.851164129251407,
+        "TimeStamp": "2024-11-22T16:20:47.134644"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 77,
+        "Value": 13.39095310143927,
+        "TimeStamp": "2024-11-22T16:21:00.985808"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 78,
+        "Value": 13.056438431357567,
+        "TimeStamp": "2024-11-22T16:21:14.376761"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 79,
+        "Value": 13.271419901272244,
+        "TimeStamp": "2024-11-22T16:21:27.433199"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 80,
+        "Value": 13.582320088690198,
+        "TimeStamp": "2024-11-22T16:21:40.704619"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 81,
+        "Value": 13.861847947037274,
+        "TimeStamp": "2024-11-22T16:21:54.286939"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 82,
+        "Value": 13.266266370929584,
+        "TimeStamp": "2024-11-22T16:22:08.148787"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 83,
+        "Value": 13.116549024078648,
+        "TimeStamp": "2024-11-22T16:22:21.415053"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 84,
+        "Value": 13.926907399153125,
+        "TimeStamp": "2024-11-22T16:22:34.531602"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 85,
+        "Value": 13.54850907555168,
+        "TimeStamp": "2024-11-22T16:22:48.458509"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 86,
+        "Value": 13.341937966454887,
+        "TimeStamp": "2024-11-22T16:23:02.007018"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 87,
+        "Value": 13.113849198418253,
+        "TimeStamp": "2024-11-22T16:23:15.348956"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 88,
+        "Value": 13.13758787341877,
+        "TimeStamp": "2024-11-22T16:23:28.462805"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 89,
+        "Value": 13.143603514598766,
+        "TimeStamp": "2024-11-22T16:23:41.600393"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 90,
+        "Value": 13.973225484911342,
+        "TimeStamp": "2024-11-22T16:23:54.743997"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 91,
+        "Value": 13.154779454163723,
+        "TimeStamp": "2024-11-22T16:24:08.717222"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 92,
+        "Value": 13.970464889599109,
+        "TimeStamp": "2024-11-22T16:24:21.872001"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 93,
+        "Value": 13.089024516463567,
+        "TimeStamp": "2024-11-22T16:24:35.842466"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 94,
+        "Value": 13.913811053768725,
+        "TimeStamp": "2024-11-22T16:24:48.931491"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 95,
+        "Value": 13.223318803567327,
+        "TimeStamp": "2024-11-22T16:25:02.845302"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 96,
+        "Value": 13.008785054996759,
+        "TimeStamp": "2024-11-22T16:25:16.068621"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 97,
+        "Value": 13.321018701402172,
+        "TimeStamp": "2024-11-22T16:25:29.077406"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 98,
+        "Value": 13.695974224564258,
+        "TimeStamp": "2024-11-22T16:25:42.398425"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 99,
+        "Value": 13.535108679596942,
+        "TimeStamp": "2024-11-22T16:25:56.094399"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 100,
+        "Value": 13.093472266398773,
+        "TimeStamp": "2024-11-22T16:26:09.629508"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 101,
+        "Value": 13.164723695736939,
+        "TimeStamp": "2024-11-22T16:26:22.722980"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 102,
+        "Value": 14.044062730812419,
+        "TimeStamp": "2024-11-22T16:26:35.887704"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 103,
+        "Value": 13.876686634124951,
+        "TimeStamp": "2024-11-22T16:26:49.931767"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 104,
+        "Value": 13.883632964216888,
+        "TimeStamp": "2024-11-22T16:27:03.808454"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 105,
+        "Value": 13.271825599526876,
+        "TimeStamp": "2024-11-22T16:27:17.692087"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 106,
+        "Value": 13.702687688012679,
+        "TimeStamp": "2024-11-22T16:27:30.963913"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 107,
+        "Value": 13.722063322721555,
+        "TimeStamp": "2024-11-22T16:27:44.666601"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 108,
+        "Value": 13.117344867070152,
+        "TimeStamp": "2024-11-22T16:27:58.388664"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 109,
+        "Value": 13.170601494189079,
+        "TimeStamp": "2024-11-22T16:28:11.506009"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 110,
+        "Value": 13.045302652448392,
+        "TimeStamp": "2024-11-22T16:28:24.676610"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 111,
+        "Value": 13.752991138742672,
+        "TimeStamp": "2024-11-22T16:28:37.721913"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 112,
+        "Value": 13.923927757226807,
+        "TimeStamp": "2024-11-22T16:28:51.474904"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 113,
+        "Value": 13.785931728888063,
+        "TimeStamp": "2024-11-22T16:29:05.398832"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 114,
+        "Value": 13.625386861252416,
+        "TimeStamp": "2024-11-22T16:29:19.184764"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 115,
+        "Value": 14.03492201726038,
+        "TimeStamp": "2024-11-22T16:29:32.810151"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 116,
+        "Value": 14.075133076183928,
+        "TimeStamp": "2024-11-22T16:29:46.845073"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 117,
+        "Value": 13.083725993163535,
+        "TimeStamp": "2024-11-22T16:30:00.920206"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 118,
+        "Value": 14.079994532785866,
+        "TimeStamp": "2024-11-22T16:30:14.003932"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 119,
+        "Value": 13.576597341092091,
+        "TimeStamp": "2024-11-22T16:30:28.083927"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 120,
+        "Value": 13.315921561396507,
+        "TimeStamp": "2024-11-22T16:30:41.660524"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 121,
+        "Value": 14.153729495289145,
+        "TimeStamp": "2024-11-22T16:30:54.976446"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 122,
+        "Value": 14.877557713596072,
+        "TimeStamp": "2024-11-22T16:31:09.130175"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 123,
+        "Value": 14.495094572320033,
+        "TimeStamp": "2024-11-22T16:31:24.007733"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 124,
+        "Value": 14.289741344927293,
+        "TimeStamp": "2024-11-22T16:31:38.502828"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 125,
+        "Value": 14.598849308287761,
+        "TimeStamp": "2024-11-22T16:31:52.792569"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 126,
+        "Value": 14.362429693680758,
+        "TimeStamp": "2024-11-22T16:32:07.391418"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 127,
+        "Value": 14.367593159475947,
+        "TimeStamp": "2024-11-22T16:32:21.753848"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 128,
+        "Value": 14.260143997493927,
+        "TimeStamp": "2024-11-22T16:32:36.121441"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 129,
+        "Value": 14.738866376890977,
+        "TimeStamp": "2024-11-22T16:32:50.381585"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 130,
+        "Value": 14.331160810206596,
+        "TimeStamp": "2024-11-22T16:33:05.120451"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 131,
+        "Value": 14.564281720417458,
+        "TimeStamp": "2024-11-22T16:33:19.451612"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 132,
+        "Value": 14.703858564831275,
+        "TimeStamp": "2024-11-22T16:33:34.015894"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 133,
+        "Value": 14.84803107897033,
+        "TimeStamp": "2024-11-22T16:33:48.719753"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 134,
+        "Value": 14.726245531063269,
+        "TimeStamp": "2024-11-22T16:34:03.567784"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 135,
+        "Value": 14.96115915920215,
+        "TimeStamp": "2024-11-22T16:34:18.294030"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 136,
+        "Value": 14.805022676865095,
+        "TimeStamp": "2024-11-22T16:34:33.255189"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 137,
+        "Value": 14.830663285070251,
+        "TimeStamp": "2024-11-22T16:34:48.060212"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 138,
+        "Value": 14.816310282778987,
+        "TimeStamp": "2024-11-22T16:35:02.890875"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 139,
+        "Value": 14.667897202368932,
+        "TimeStamp": "2024-11-22T16:35:17.707185"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 140,
+        "Value": 14.587866671754874,
+        "TimeStamp": "2024-11-22T16:35:32.375082"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 141,
+        "Value": 15.039619843734936,
+        "TimeStamp": "2024-11-22T16:35:46.962949"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 142,
+        "Value": 15.159239247633336,
+        "TimeStamp": "2024-11-22T16:36:02.002569"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 143,
+        "Value": 15.180060000598822,
+        "TimeStamp": "2024-11-22T16:36:17.161808"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 144,
+        "Value": 15.02266341941475,
+        "TimeStamp": "2024-11-22T16:36:32.341868"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 145,
+        "Value": 15.566288344445462,
+        "TimeStamp": "2024-11-22T16:36:47.364531"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 146,
+        "Value": 15.148621043233733,
+        "TimeStamp": "2024-11-22T16:37:02.930819"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 147,
+        "Value": 15.020765311783862,
+        "TimeStamp": "2024-11-22T16:37:18.079440"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 148,
+        "Value": 15.73007655998273,
+        "TimeStamp": "2024-11-22T16:37:33.100205"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 149,
+        "Value": 15.454105582941317,
+        "TimeStamp": "2024-11-22T16:37:48.830282"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 150,
+        "Value": 15.200404769678123,
+        "TimeStamp": "2024-11-22T16:38:04.284388"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 151,
+        "Value": 15.275204572000124,
+        "TimeStamp": "2024-11-22T16:38:19.484793"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 152,
+        "Value": 15.466667324950087,
+        "TimeStamp": "2024-11-22T16:38:34.759998"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 153,
+        "Value": 15.019811928622316,
+        "TimeStamp": "2024-11-22T16:38:50.226665"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 154,
+        "Value": 15.09497796492907,
+        "TimeStamp": "2024-11-22T16:39:05.246477"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 155,
+        "Value": 15.588129654611109,
+        "TimeStamp": "2024-11-22T16:39:20.341455"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 156,
+        "Value": 15.550630700830059,
+        "TimeStamp": "2024-11-22T16:39:35.929585"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 157,
+        "Value": 15.578380919519288,
+        "TimeStamp": "2024-11-22T16:39:51.480216"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 158,
+        "Value": 15.090798698911886,
+        "TimeStamp": "2024-11-22T16:40:07.058597"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 159,
+        "Value": 15.657379728459125,
+        "TimeStamp": "2024-11-22T16:40:22.149396"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 160,
+        "Value": 15.38300394376139,
+        "TimeStamp": "2024-11-22T16:40:37.806776"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 161,
+        "Value": 16.774503412090002,
+        "TimeStamp": "2024-11-22T16:40:53.189780"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 162,
+        "Value": 17.41403240902685,
+        "TimeStamp": "2024-11-22T16:41:09.964283"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 163,
+        "Value": 16.075268028432717,
+        "TimeStamp": "2024-11-22T16:41:27.378315"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 164,
+        "Value": 16.31854452322099,
+        "TimeStamp": "2024-11-22T16:41:43.453583"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 165,
+        "Value": 17.645796843686192,
+        "TimeStamp": "2024-11-22T16:41:59.772128"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 166,
+        "Value": 19.984278592031725,
+        "TimeStamp": "2024-11-22T16:42:17.417925"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 167,
+        "Value": 19.742951266028754,
+        "TimeStamp": "2024-11-22T16:42:37.402204"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 168,
+        "Value": 15.940819385322323,
+        "TimeStamp": "2024-11-22T16:42:57.145155"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 169,
+        "Value": 18.57140698726265,
+        "TimeStamp": "2024-11-22T16:43:13.085974"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 170,
+        "Value": 18.776939938675397,
+        "TimeStamp": "2024-11-22T16:43:31.657381"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 171,
+        "Value": 17.15051072871214,
+        "TimeStamp": "2024-11-22T16:43:50.434321"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 172,
+        "Value": 17.51827424562574,
+        "TimeStamp": "2024-11-22T16:44:07.584832"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 173,
+        "Value": 18.499085129624294,
+        "TimeStamp": "2024-11-22T16:44:25.103106"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 174,
+        "Value": 19.73285503657569,
+        "TimeStamp": "2024-11-22T16:44:43.602191"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 175,
+        "Value": 18.371467413461247,
+        "TimeStamp": "2024-11-22T16:45:03.335046"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 176,
+        "Value": 18.195098778346832,
+        "TimeStamp": "2024-11-22T16:45:21.706513"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 177,
+        "Value": 17.32045113060852,
+        "TimeStamp": "2024-11-22T16:45:39.901612"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 178,
+        "Value": 17.385264345397307,
+        "TimeStamp": "2024-11-22T16:45:57.222063"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 179,
+        "Value": 17.159825515361103,
+        "TimeStamp": "2024-11-22T16:46:14.607327"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 180,
+        "Value": 19.637174080935235,
+        "TimeStamp": "2024-11-22T16:46:31.767153"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 181,
+        "Value": 13.123646616641997,
+        "TimeStamp": "2024-11-22T16:46:51.404327"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 182,
+        "Value": 13.20982371140941,
+        "TimeStamp": "2024-11-22T16:47:04.527974"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 183,
+        "Value": 13.71330960427975,
+        "TimeStamp": "2024-11-22T16:47:17.737798"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 184,
+        "Value": 13.43246365666337,
+        "TimeStamp": "2024-11-22T16:47:31.451108"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 185,
+        "Value": 13.468065131655665,
+        "TimeStamp": "2024-11-22T16:47:44.883572"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 186,
+        "Value": 13.617656201009922,
+        "TimeStamp": "2024-11-22T16:47:58.351637"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 187,
+        "Value": 13.553285601384584,
+        "TimeStamp": "2024-11-22T16:48:11.969293"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 188,
+        "Value": 13.426059308936603,
+        "TimeStamp": "2024-11-22T16:48:25.522579"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 189,
+        "Value": 13.492680766960962,
+        "TimeStamp": "2024-11-22T16:48:38.948638"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 190,
+        "Value": 13.694647416710845,
+        "TimeStamp": "2024-11-22T16:48:52.441319"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 191,
+        "Value": 13.507989792347024,
+        "TimeStamp": "2024-11-22T16:49:06.135966"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 192,
+        "Value": 13.780032774642498,
+        "TimeStamp": "2024-11-22T16:49:19.643956"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 193,
+        "Value": 13.141891874438407,
+        "TimeStamp": "2024-11-22T16:49:33.423989"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 194,
+        "Value": 13.732672259336088,
+        "TimeStamp": "2024-11-22T16:49:46.565881"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 195,
+        "Value": 13.611809957341128,
+        "TimeStamp": "2024-11-22T16:50:00.298553"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 196,
+        "Value": 13.713967701643389,
+        "TimeStamp": "2024-11-22T16:50:13.910363"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 197,
+        "Value": 13.264734338558553,
+        "TimeStamp": "2024-11-22T16:50:27.624331"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 198,
+        "Value": 13.461205780425527,
+        "TimeStamp": "2024-11-22T16:50:40.889065"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 199,
+        "Value": 13.64178349716225,
+        "TimeStamp": "2024-11-22T16:50:54.350271"
+    },
+    {
+        "StationName": "Station1",
+        "SerialNumber": 200,
+        "Value": 13.143679656424393,
+        "TimeStamp": "2024-11-22T16:51:07.992054"
+    }
+]
